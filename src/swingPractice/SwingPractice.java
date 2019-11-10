@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package java.swing.practice;
+package swingPractice;
 
 /**
  *
  * @author Wu
  */
-public class JavaSwingPractice {
+public class SwingPractice {
 
     /**
      * @param args the command line arguments
