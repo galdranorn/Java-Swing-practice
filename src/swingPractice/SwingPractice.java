@@ -7,14 +7,14 @@ package swingPractice;
 
 /**
  *
- * @author Wu
+ * @author galdranorn
  */
 public class SwingPractice {
 
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void swingPractice(String[] args) {
         // TODO code application logic here
     }
     
